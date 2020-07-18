@@ -8,6 +8,8 @@ The goals / steps of this project are the following:
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
 
+In video.mp4 you can find the result video.
+
 ## Files Submitted & Code Quality
 
 ## 1. Submission includes all required files and can be used to run the simulator in autonomous mode
